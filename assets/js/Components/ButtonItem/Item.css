@@ -1,0 +1,18 @@
+.postacie {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 50px;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+
+}
+.postacie:hover {
+    background: #0b3b2d;
+    color: #DDDDDD;
+    cursor: pointer;
+    border-radius: 25px;
+    transition: 500ms;
+}
