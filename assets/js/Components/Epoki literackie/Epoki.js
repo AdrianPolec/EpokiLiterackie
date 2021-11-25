@@ -16,8 +16,8 @@ export default function Epoki() {
     return(
         <>
             <div className='container'>
-                {epoki.map((epoka, i) => (
-                    <Link to={epoka.name} className='epokaBlock' key={i}>
+                {epoki.map((epoka) => (
+                    <Link to={epoka.name} className='epokaBlock' key={epoka.id}>
                         <div className='epoka'>{epoka.name}</div>
                     </Link>
                 ))}

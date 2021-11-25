@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4cd26a-9989-4f05-9ef2-35c56bfadb43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EpokiLiterackie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/Components/Dzieła i postacie/DzielaIPostacie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/Components/Epoki literackie/Epoki.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/phpunit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/EpokiController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/translations/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/Components/ButtonItem/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Components/ButtonItem/Item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/Components/Epoki literackie/Epoki.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Components/Epoki literackie/Epoki.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +221,8 @@
       <workItem from="1635762903985" duration="8182000" />
       <workItem from="1635850183794" duration="14909000" />
       <workItem from="1636399452272" duration="186000" />
+      <workItem from="1637615367080" duration="678000" />
+      <workItem from="1637834274090" duration="6791000" />
     </task>
     <servers />
   </component>

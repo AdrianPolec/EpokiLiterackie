@@ -4,7 +4,6 @@ import './item.css';
 const Item = ({
     id={id},
     className={className},
-    key={key},
     onClick={onClick},
     dziela={dziela},
     children={children}
@@ -15,7 +14,6 @@ const Item = ({
     <div
         id={id}
         className='postacie'
-        key={key}
         onClick={onClick}
         dziela={dziela}
     >

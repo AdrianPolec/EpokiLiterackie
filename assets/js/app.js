@@ -25,10 +25,10 @@ function App(){
                     <Route path="/EpokiLiterackie">
                         <Epoki/>
                     </Route>
-                    {epoki.map((epoka, i) => (
-                        <Route path={`/${epoka.name}`} key={i}>
+                    {epoki.map((epoka) => (
+                        <Route path={`/${epoka.name}`} key={epoka.name}>
                             <DzielaIPostacie
-                                key={i}
+                                key={epoka.id}
                                 name={epoka.name}
                                 postacie={epoka.postacie}
                                 cechy={epoka.cechy}
